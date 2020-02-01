@@ -1,0 +1,101 @@
+{
+    "url":"https:\/\/www.nytimes.com\/2019\/07\/16\/opinion\/trump-2020.html",
+    "adx_keywords":"Presidential Election of 2020;United States Politics and Government;Democratic Party;Republican Party;Trump, Donald J;Raimondo, Gina M;Rhode Island",
+    "column":null,
+    "section":"Opinion",
+    "byline":"By THOMAS L. FRIEDMAN",
+    "type":"Article",
+    "title":"\u2018Trump\u2019s Going to Get Re-elected, Isn\u2019t He?\u2019",
+    "abstract":"Voters have reason to worry.",
+    "published_date":"2019-07-16",
+    "source":"The New York Times",
+    "id":100000006614365,
+    "asset_id":100000006614365,
+    "views":1,
+    "des_facet":[
+        "PRESIDENTIAL ELECTION OF 2020",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+    ],
+    "org_facet":[
+        "DEMOCRATIC PARTY",
+        "REPUBLICAN PARTY"
+    ],
+    "per_facet":[
+        "TRUMP, DONALD J",
+        "RAIMONDO, GINA M"
+    ],
+    "geo_facet":[
+        "RHODE ISLAND"
+    ],
+    "media":[
+        {
+            "type":"image",
+            "subtype":"photo",
+            "caption":"President Trump in June at the launch of his 2020 campaign in Orlando, Fla.",
+            "copyright":"Damon Winter\/The New York Times",
+            "approved_for_syndication":1,
+            "media-metadata":[
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-square320.jpg",
+                    "format":"square320",
+                    "height":320,
+                    "width":320
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-thumbStandard.jpg",
+                    "format":"Standard Thumbnail",
+                    "height":75,
+                    "width":75
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/merlin_157872765_8453a3d3-e2ef-4d15-9001-d0e11d8fdecc-articleInline.jpg",
+                    "format":"Normal",
+                    "height":127,
+                    "width":190
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/merlin_157872765_8453a3d3-e2ef-4d15-9001-d0e11d8fdecc-sfSpan.jpg",
+                    "format":"Large",
+                    "height":263,
+                    "width":395
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/merlin_157872765_8453a3d3-e2ef-4d15-9001-d0e11d8fdecc-jumbo.jpg",
+                    "format":"Jumbo",
+                    "height":683,
+                    "width":1024
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/merlin_157872765_8453a3d3-e2ef-4d15-9001-d0e11d8fdecc-superJumbo.jpg",
+                    "format":"superJumbo",
+                    "height":1365,
+                    "width":2048
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-square640.jpg",
+                    "format":"square640",
+                    "height":640,
+                    "width":640
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-thumbLarge.jpg",
+                    "format":"Large Thumbnail",
+                    "height":150,
+                    "width":150
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-mediumThreeByTwo210.jpg",
+                    "format":"mediumThreeByTwo210",
+                    "height":140,
+                    "width":210
+                },
+                {
+                    "url":"https:\/\/static01.nyt.com\/images\/2019\/07\/16\/opinion\/16friedman1\/16friedman1-mediumThreeByTwo440.jpg",
+                    "format":"mediumThreeByTwo440",
+                    "height":293,
+                    "width":440
+                }
+            ]
+        }
+    ]
+}
